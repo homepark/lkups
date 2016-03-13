@@ -1,5 +1,5 @@
 fieldName,lookupCode,lookupDescription,iconBaseFilename,filterKey,filterKey2,groupBy,OPCS,
-metadata,lookupversnumber,72,,,,,,
+metadata,lookupversnumber,72,this,should,match,realeasenum,githubtag,
 ageGroup,0,<1 month,,,,,,
 ageGroup,1,<1 year,,,,,,
 ageGroup,15,1-5 years,,,,,,
