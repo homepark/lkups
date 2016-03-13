@@ -1,4 +1,5 @@
 fieldName,lookupCode,lookupDescription,iconBaseFilename,filterKey,filterKey2,groupBy,OPCS,
+metadata,lookupversnum,71,,,,,,
 ageGroup,0,<1 month,,,,,,
 ageGroup,1,<1 year,,,,,,
 ageGroup,15,1-5 years,,,,,,
