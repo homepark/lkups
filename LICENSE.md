@@ -1,0 +1,1 @@
+copyright graham conway
