@@ -1,1 +1,1 @@
-Add data in this repository is copyright graham conway
+Add data in this repository is copyright by owners of this repository 
