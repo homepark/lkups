@@ -1,4 +1,4 @@
-xfieldName,lookupCode,lookupDescription,iconBaseFilename,filterKey,filterKey2,groupBy,OPCS,
+fieldName,lookupCode,lookupDescription,iconBaseFilename,filterKey,filterKey2,groupBy,OPCS,
 metadata,lookupversnumber,77,this,should,match,realeasenum,githubtag,
 ageGroup,00,<1 month,,,,,,
 ageGroup,01,<1 year,,,,,,
